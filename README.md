@@ -103,11 +103,11 @@ del repositorio. Para cada imagen se incluye:
 
 ## Demostración en vivo
 
-<!-- Agrega aquí un GIF o video de la cámara en vivo -->
+[<!-- Agrega aquí un GIF o video de la cámara en vivo -->
 <!-- Puedes grabar la pantalla con QuickTime en Mac y convertirlo a GIF con ffmpeg: -->
 <!-- ffmpeg -i demo.mov -vf "fps=10,scale=800:-1" demo.gif -->
 
-![Demo en vivo](imagenes/demo.gif)
+![Demo en vivo](imagenes/demo.gif)](https://youtu.be/47x-w6F7TyQ)
 
 ## Dependencias
 
